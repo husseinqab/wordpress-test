@@ -1,0 +1,27 @@
+Version 1.0.8
+Jquery Update
+Minor backend tweaks
+
+Version 1.0.7
+Fix security issues regarding nonce verification
+
+Version 1.0.6
+Fixed comments display on blog posts
+
+Version 1.0.4
+Fixed error in menu edit
+
+Version 1.0.3
+Security Fixes
+Removed Simple Author Box from recommended plugins
+Update Icons
+Customizer JS error fix
+
+Version 1.0.2
+Improved accesibility with keyboard navigation
+
+Version 1.0.1
+Added compatibility with Kali Forms plugin
+
+Version 1.0.0
+Theme release!
